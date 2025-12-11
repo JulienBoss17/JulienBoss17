@@ -1,5 +1,5 @@
 <h2>Bonjour, je suis Julien !</h2>
-<p>Développeur full stack</p>
+<p>Développeur web full stack</p>
 
 <h3 align="left"> Mes Langages et Outils:</h3>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
